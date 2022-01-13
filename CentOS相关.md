@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/auther-lonelyzhou-orange)
 ## MySQL安装与配置
 ## 1. 安装MySQL
 - ### 安装
