@@ -106,7 +106,7 @@ mysql_secure_installation
 
    结果
 
-   ![](./img/select user,host from user;.png)
+   ![](./img/select_host.png)
 
 ## 4. 服务器开放3306端口 (腾讯云为例)
 
@@ -116,6 +116,10 @@ mysql_secure_installation
 
 ## 5. Navicat 连接
 
-1. ![](./img/MySQL连接1.png)
-2. ![](./img/MySQL连接2.png)
-k
+1. 新建连接
+
+   ![新建连接](./img/MySQL连接1.png)
+
+2. 填写
+
+  ![](./img/MySQL连接2.png)
