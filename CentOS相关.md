@@ -45,7 +45,7 @@ mysql_secure_installation
 
    ![](./img/mysql_secure_installation2.png)
 
-3. 输入两边密码 确认是否继续使用提供的密码 y
+3. 输入两遍密码 确认是否继续使用提供的密码 y
 
    ![](./img/mysql_secure_installation3.png)
 
